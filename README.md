@@ -32,7 +32,7 @@
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/Self-Correction-Human-Parsing.git
+https://github.com/YahyaCengiz/Self-Correction-Human-Parsing.git
 cd Self-Correction-Human-Parsing
 
 # 2. Download pre-trained models (see models/README.md)
